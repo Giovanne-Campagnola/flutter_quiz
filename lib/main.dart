@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:quiz/EndScreen.dart';
 import 'package:quiz/Question.dart';
 import 'package:quiz/data.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
